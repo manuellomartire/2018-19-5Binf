@@ -36,7 +36,7 @@ public class Main extends JFrame {
 		sb.append("<h1>Command list</h1>");
 		// create a table
 		sb.append("<div style='display:table'>");
-		
+		//commento inutileeee
 		// create a row
 		sb.append("<div style='display:table-row'>");
 		
